@@ -1,5 +1,5 @@
 Overview
-This repository provides example code and data demonstrating the implementation of the proposed MSSR_ePDI method in MATLAB. The provided scripts and sample datasets can be used to reproduce the main results presented in our paper.
+This repository provides example code and data demonstrating the implementation of the proposed MSSR_ePDI method <<Mean‑shift super‑resolution–enhanced Power Doppler ultrasound for microvascular structural and functional imaging>> in MATLAB. The provided scripts and sample datasets can be used to reproduce the main results presented in our paper.
 Code Availability
 Example MATLAB code and data for implementing the MSSR_ePDI method are included in this repository. Users can follow the instructions in the code comments to run the code and test the method on the provided example data.
 Prerequisites
