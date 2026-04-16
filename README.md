@@ -1,5 +1,7 @@
 Overview
-This repository provides example code and data demonstrating the implementation of the proposed MSSR_ePDI method <<Mean‑shift super‑resolution–enhanced Power Doppler ultrasound for microvascular structural and functional imaging>> in MATLAB. The provided scripts and sample datasets can be used to reproduce the main results presented in our paper.
+This repository provides example code and data demonstrating the implementation of the proposed MSSR_ePDI method <<Frame‑wise weighted resolution‑enhanced power Doppler ultrasound for microvascular structural and functional imaging>> in MATLAB. The provided scripts and sample datasets can be used to reproduce the main results presented in our paper. When you use it, please cite:" Yang Liu, Zheng Qu, Yongchao Wang, Jingyi Zhu, Lidai Wang, Frame‑wise weighted resolution‑enhanced power Doppler ultrasound for microvascular structural and functional imaging,
+Ultrasonics, Volume 165,2026,108095,ISSN 0041-624X.https://doi.org/10.1016/j.ultras.2026.108095.".
+(https://www.sciencedirect.com/science/article/pii/S0041624X26001472)
 Code Availability
 Example MATLAB code and data for implementing the MSSR_ePDI method are included in this repository. Users can follow the instructions in the code comments to run the code and test the method on the provided example data.
 Prerequisites
